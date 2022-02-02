@@ -3,4 +3,9 @@ layout: post
 title: "Blogging Like a Hacker"
 jekyll-theme-cayman
 ---
-## Hello world
+
+# brandon-hastings.github.io
+## Brandon Hastings
+**MS Student in Evolutionary Biology**
+
+Hello
